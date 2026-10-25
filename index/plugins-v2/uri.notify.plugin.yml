@@ -1,4 +1,4 @@
-id: uri.notify.plugin
+id: io.github.tianchai66.plugin
 name: Uri 弹窗通知
 description: 通过 URI 调用在 ClassIsland 上显示弹窗提醒。
 entranceAssembly: "UriNotifyPlugin.dll"
